@@ -76,6 +76,21 @@ function Work() {
       text: "",
       projectLink: "https://example.com/project5"
     },
+    {
+      image: "ice coke.png",
+      title: "Ice Coke",
+      projectLink: "https://example.com/project9"
+    },
+    {
+      image: "blue.png",
+      title: "",
+      projectLink: "https://example.com/project9"
+    },
+    {
+      image: "zudio.png",
+      title: "Oreo",
+      projectLink: "https://example.com/project9"
+    },
 
     {
       image: "coke.jpg",
